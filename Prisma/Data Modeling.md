@@ -1,0 +1,2 @@
+-  
+In Prisma, when you define a model, by default, an `id` field is automatically added as a primary key if no primary key is explicitly defined. Prisma assumes the `id` field as the primary key for your model if you don't specify a different field as the primary key using the `@id` attribute.
